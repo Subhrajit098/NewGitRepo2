@@ -21,6 +21,7 @@ public class Demoo {
 		int res1=Demoo.m1(5, 4);
 		System.out.println(res);
 		System.out.println(res1);
+		System.out.println("program completed");
 		
 		
 
